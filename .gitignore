@@ -1,0 +1,15 @@
+# C# / .NET
+[Oo]bj/
+[Bb]in/
+*.user
+*.suo
+
+# PowerShell
+*.log
+
+# Windows
+Thumbs.db
+Desktop.ini
+
+# VS Code
+.vscode/
